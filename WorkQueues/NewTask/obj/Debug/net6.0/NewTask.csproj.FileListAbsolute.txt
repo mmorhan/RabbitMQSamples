@@ -1,0 +1,17 @@
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/bin/Debug/net6.0/NewTask
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/bin/Debug/net6.0/NewTask.deps.json
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/bin/Debug/net6.0/NewTask.runtimeconfig.json
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/bin/Debug/net6.0/NewTask.dll
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/bin/Debug/net6.0/NewTask.pdb
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.csproj.AssemblyReference.cache
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.AssemblyInfoInputs.cache
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.AssemblyInfo.cs
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.csproj.CoreCompileInputs.cache
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.csproj.CopyComplete
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.dll
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/refint/NewTask.dll
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.pdb
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/NewTask.genruntimeconfig.cache
+/home/orhan/Documents/projects/RabbitMqSample/WorkQueues/NewTask/obj/Debug/net6.0/ref/NewTask.dll
