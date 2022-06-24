@@ -18,10 +18,11 @@ namespace WorkQueues.NewTask
                                     exclusive:false,
                                     autoDelete:false,
                                     arguments:null);
-
+                int count=0;
                 while(true){
 
-                var message = GetMessage(args);
+                var message = GetMessage(args)+$" {count}";
+                count++;
 
                 var body = Encoding.UTF8.GetBytes(message);
                 var properties = channel.CreateBasicProperties();
@@ -33,7 +34,7 @@ namespace WorkQueues.NewTask
                                     body:body);
 
                 Console.WriteLine(" [x] Sent {0}",message);
-                Thread.Sleep(1000);
+                Thread.Sleep(10);
 
                 }
             

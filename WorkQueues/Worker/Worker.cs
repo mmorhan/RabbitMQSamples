@@ -20,6 +20,7 @@ namespace WorkQueues.NewTask{
                                     arguments:null);
 
                 var consumer=  new EventingBasicConsumer(channel);
+                
                 consumer.Received += (model,ea)=>{
                     var body=ea.Body.ToArray();
                     var message=Encoding.UTF8.GetString(body);
@@ -31,7 +32,11 @@ namespace WorkQueues.NewTask{
                     Console.WriteLine(" [x] Done");
 
                 };
+                while (true){
+
                 channel.BasicConsume(queue:"task_queue",autoAck:true,consumer:consumer);
+
+                }
             }
 
             Console.WriteLine("Press [Enter] to Exit");
