@@ -10,13 +10,12 @@ namespace PublishSender.Send
         {
 
             var factory = new ConnectionFactory() { HostName = "localhost" };
-
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
 
 
-                channel.ExchangeDeclare(exchange: "logs",
+                channel.ExchangeDeclare(exchange: "Logs",
                                         type: ExchangeType.Fanout);
 
                 int i = 0;

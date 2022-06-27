@@ -15,12 +15,14 @@ namespace PublishSubscriber.Receive
             {
 
                 Console.WriteLine("Exchange Declared"); 
-                channel.ExchangeDeclare(exchange: "logs",
+
+                channel.ExchangeDeclare(exchange: "Logs",
                                          type: ExchangeType.Fanout);
 
                 var queueName = channel.QueueDeclare().QueueName;
+
                 channel.QueueBind(queue: queueName,
-                                exchange: "logs",
+                                exchange: "Logs",
                                 routingKey: "");
 
 

@@ -1,0 +1,17 @@
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/bin/Debug/net6.0/RPCClient
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/bin/Debug/net6.0/RPCClient.deps.json
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/bin/Debug/net6.0/RPCClient.runtimeconfig.json
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/bin/Debug/net6.0/RPCClient.dll
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/bin/Debug/net6.0/RPCClient.pdb
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.csproj.AssemblyReference.cache
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.AssemblyInfoInputs.cache
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.AssemblyInfo.cs
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.csproj.CoreCompileInputs.cache
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.csproj.CopyComplete
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.dll
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/refint/RPCClient.dll
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.pdb
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/RPCClient.genruntimeconfig.cache
+/home/orhan/Documents/projects/RabbitMqSample/RPC/RPCClient/obj/Debug/net6.0/ref/RPCClient.dll
